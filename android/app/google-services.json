@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590905842014",
+    "project_id": "zd-market",
+    "storage_bucket": "zd-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590905842014:android:0c56e9cc2aee1dc7c0d7cf",
+        "android_client_info": {
+          "package_name": "com.example.zd_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNRBj7J0weU-guhk8kFi4m5jOl-iUOjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
